@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingVeiwX">
+        <attr name="textColor" format="color|reference"/>
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="SlidingViewY">
+        <attr name="min_textSize" format="dimension"/>
+        <attr name="max_textSize" format="dimension"/>
+        <attr name="startColor" format="color|reference"/>
+        <attr name="endColor" format="color|reference"/>
+        <attr name="visible_item_count" format="integer"/>
+        <attr name="lineColor" format="color|reference"/>
+        <attr name="lineWidth" format="dimension|integer"/>
+    </declare-styleable>
+</resources>
