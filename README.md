@@ -1,4 +1,6 @@
 # YayaView自定义控件主要实现惯性滑动功能
+# 效果如下：
+![image](https://github.com/houwenbiao/YayaView/tree/master/app/src/main/res/drawable/slidingview.png)
 # 使用方法：
 添加依赖：
 compile 'com.github.houwenbiao:YayaView:1.0';
